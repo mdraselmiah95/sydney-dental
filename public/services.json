@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "INVISALIGN®",
+    "work": "BRACES",
+    "imgOne": "https://i.ibb.co/BGwSb3n/icon-banner-invisaling.png",
+    "imgTwo": "https://i.ibb.co/4VKkwqr/Dr-1.jpg",
+    "titleTwo": "Invisalign® Braces in Sydney CBD",
+    "details": "A beautiful smile with perfectly aligned teeth can be the ultimate confidence booster. With Invisalign®, you have an alternative to the metal braces that are now a thing of the past. This modern approach to straightening teeth uses a series of custom-made aligners created just for you. They’re comfortable, smooth and virtually invisible. Your teeth will gently be shifted into place based on the desired amount of straightening you’ve discussed with Dr Tony Goswell. Without uncomfortable metal brackets or wires, getting straight teeth is simpler than ever with no interference in your everyday life."
+  },
+  {
+    "id": 2,
+    "title": "TEETH",
+    "work": "WHITENING",
+    "imgOne": "https://i.ibb.co/7J0jqWj/icon-banner-whitening.png",
+    "imgTwo": "https://i.ibb.co/kDCnpbj/Dr-2.jpg",
+    "titleTwo": "Teeth Whitening in Sydney",
+    "details": "At our Dental, we are pleased to offer a broad range of solutions to suit your needs.Over time, you may have noticed that your teeth aren’t as white as they used to be. Some discolouration over time is completely normal.If you would like to transform your appearance, a tooth whitening procedure can be simple and effective in reaching your goals."
+  },
+  {
+    "id": 3,
+    "title": "GENERAL",
+    "work": "DENTISTRY",
+    "imgOne": "https://i.ibb.co/DkZRsCh/icon-banner-general-dentistry.png",
+    "imgTwo": "https://i.ibb.co/pr56LJb/Dr-3.jpg",
+    "titleTwo": "General Dentistry in Sydney",
+    "details": " Dental provides you with a range of general dentistry services to meet all your needs. Whether you need a routine checkup or have a particular concern, Dr Tony Goswell and our friendly team are ready to help you."
+  },
+  {
+    "id": 4,
+    "title": "COSMETIC",
+    "work": "DENTISTRY",
+    "imgOne": "https://i.ibb.co/LPRZNgB/icon-banner-cosmetic.png",
+    "imgTwo": "https://i.ibb.co/x3NhJq3/Dr-4.jpg",
+    "titleTwo": "Cosmetic Dentistry in Sydney",
+    "details": "we understand the importance of your oral health. It isn’t just about avoiding costly and complex work in the future; you also want to be proud of the way your teeth look. We provide a full suite of services to be sure that we meet your needs."
+  },
+  {
+    "id": 5,
+    "title": "DENTAL",
+    "work": "IMPLANTS",
+    "imgOne": "https://i.ibb.co/CJdYm1F/icon-banner-implants.png",
+    "imgTwo": "https://i.ibb.co/rs6nZth/Dr-5.jpg",
+    "titleTwo": "Dental Implants in Sydney",
+    "details": "Becoming a patient at Sydney Dental means that you’re a part of our family. We’re dedicated to excellent care with attention to detail and years of experience to support what we do. With our full range of services, you can be certain we’ll cater for your needs. Our solutions include state-of-the-art dental implants, which are the modern choice for tooth replacement."
+  },
+  {
+    "id": 6,
+    "title": "SLEEP",
+    "work": "APNOEA",
+    "imgOne": "https://i.ibb.co/2j1540Q/icon-banner-sleep.png",
+    "imgTwo": "https://i.ibb.co/TTsCVNM/Dr-6.jpg",
+    "titleTwo": "Snoring and Sleep Apnoea Treatment",
+    "details": "Having transient or partial sleep apnoea means it’s tough for you to get a good night’s sleep.Dental offers you a solution that will leave you feeling well-rested and refreshed every morning.Sleep apnoea devices gently pull your lower jaw forward. This movement opens your airway, allowing you to breathe more freely. Better oxygenation means you won’t snore, which is often appreciated by spouses of those with sleep apnoea! You’ll feel happier and healthier overall when you’re able to sleep better."
+  },
+  {
+    "id": 7,
+    "title": "DENTAL SPA",
+    "work": "EXPERIENCE",
+    "imgOne": "https://i.ibb.co/wc0d1z2/icon-banner-dental-spa.png",
+    "imgTwo": "https://i.ibb.co/fp6T6tC/Dr-7.jpg",
+    "titleTwo": "The Dental Spa Experience",
+    "details": "When you choose us for your dental health needs, we want you to have the best experience possible. That’s why we’re proud to now give our patients a ‘spa’ like atmosphere.Imagine this: You come to our practice for your hygiene appointment, lay back in the chair, open your mouth, and all you feel is a stream of warm water gently cleaning your teeth. Sounds too good to be true? With us, it’s a reality."
+  },
+  {
+    "id": 8,
+    "title": "DIGITAL SMILE",
+    "work": "DESIGN",
+    "imgOne": "https://i.ibb.co/XjKzPx1/icon-banner-digital-smile.png",
+    "imgTwo": "https://i.ibb.co/7SgqWjX/Dr-8.jpg",
+    "titleTwo": "Digital Smile Design in Sydney",
+    "details": "Digital Smile Design (DSD) is a state-of-the-art dental technology that we use at Dental. DSD is used to create and plan the ideal smile for you. Unlike conventional dentistry, you’ll know precisely what your new smile will look like before you begin treatment. DSD is ideal for those with crooked, cracked, discoloured, chipped or misaligned teeth."
+  },
+  {
+    "id": 9,
+    "title": "SMILE",
+    "work": "MAKEOVER",
+    "imgOne": "https://i.ibb.co/S5ZTxkf/icon-banner-smile-makeover.png",
+    "imgTwo": "https://i.ibb.co/5hYhPNw/Dr-9.jpg",
+    "titleTwo": "Smile Makeovers in Sydney",
+    "details": "What does your smile say about you? Does it exude confidence or self-consciousness? It’s no secret that not everyone has a naturally beautiful smile. The good news is that a smile makeover can dramatically enhance your appearance, giving you the smile you’ve always wanted. We have advanced technology which allows us to create and plan the perfect smile for you. Here are some of the benefits of a smile makeover."
+  }
+]
