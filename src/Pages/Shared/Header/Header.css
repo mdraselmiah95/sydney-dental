@@ -1,0 +1,12 @@
+a {
+  text-decoration: none;
+  color: black !important;
+  font-weight: 700;
+  font-size: 18px;
+}
+.mainNav {
+  background-color: #eff1e3;
+}
+.brandLogo {
+  color: #3b92af !important;
+}
