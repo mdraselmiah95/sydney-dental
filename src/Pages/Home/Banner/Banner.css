@@ -1,7 +1,7 @@
 .banner {
   background-image: url("../../../images/banner/Main_Header.jpg"),
     linear-gradient(#2f32295c, #161a154a);
-  height: 80vh;
+  height: 100%;
   width: 100%;
   background-repeat: no-repeat;
   background-position: center;

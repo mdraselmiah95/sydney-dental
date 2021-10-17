@@ -2,7 +2,7 @@ import React from "react";
 import "./Banner.css";
 const Banner = () => {
   return (
-    <div className="banner d-flex align-items-center text-center justify-content-center">
+    <div className="banner d-flex align-items-center text-center justify-content-center py-5">
       <div className="text-center my-5 py-5 mainText">
         <h1 className="fw-bolder mainTitle">
           Sydney where experience meets excellence
