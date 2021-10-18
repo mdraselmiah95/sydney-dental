@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "COMPREHENSIVE CARE",
+    "img": "https://i.ibb.co/WWDCBrL/Icon1.png",
+    "details": "The accumulation of plaque and calculus around the teeth and under the gums can cause a cascade of dental problems like tooth decay, gingivitis, bone loss, halitosis (bad breath), and eventually, tooth loss. Routine cleanings in Williamsburg rids the mouth of harmful bacteria and ensures you can enjoy a lifetime of exceptional oral health."
+  },
+  {
+    "id": 2,
+    "title": "PORCELAIN VENEERS",
+    "img": "https://i.ibb.co/GWbrMKS/Icon2.png",
+    "details": "Don't settle for a smile that doesn't make you feel amazing! Porcelain Veneers can change the color, shape and length of your teeth and completely transform your smile!"
+  },
+  {
+    "id": 3,
+    "title": "INLAYS & ONLAYS",
+    "img": "https://i.ibb.co/p03q7DY/Icon3.png",
+    "details": "These restorations are a simple and effective treatment, and in some cases are an excellent alternative to a complete porcelain crown."
+  },
+  {
+    "id": 4,
+    "title": "INVISALIGN",
+    "img": "https://i.ibb.co/qWtGs3f/Icon4.png",
+    "details": "Gone are the days of broken wires and flossing nightmares! Clear aligners are a proven way to achieve healthy tooth movement with ease of brushing and flossing, and without the unsightly appearance of metal brackets!"
+  },
+  {
+    "id": 5,
+    "title": "ORAL SURGERY",
+    "img": "https://i.ibb.co/YtQpCcD/Icon5.png",
+    "details": "Dr. Plotnick may determine that you need a tooth extraction for various reasons. Some teeth are extracted because they are severely decayed; others may have advanced periodontal disease or have broken in a way that cannot be repaired."
+  },
+  {
+    "id": 6,
+    "title": "CROWNS",
+    "img": "https://i.ibb.co/6nXG4SK/Icon6.png",
+    "details": "Crowns are full-coverage restorations that are used to cover a tooth that is likely to break or is too damaged to be corrected with a traditional filling."
+  },
+  {
+    "id": 7,
+    "title": "ROOT CANALS",
+    "img": "https://i.ibb.co/ZJh2r40/Icon7.png",
+    "details": "Root canal therapy can save a tooth that has become severely infected or decayed. When diagnosis indicates the need for a root canal treatment, our first priority is our patients' peace of mind."
+  },
+  {
+    "id": 8,
+    "title": "ZOOM WHITENING",
+    "img": "https://i.ibb.co/m8Px4pD/Icon8.png",
+    "details": "Let us put the sparkle back into your smile! Our whitenings are both easy and non-invasive, and you can remove years of stain and color from your teeth in a single, one-hour treatment."
+  },
+  {
+    "id": 9,
+    "title": "EMERGENCIES",
+    "img": "https://i.ibb.co/58J7N9s/Icon9.png",
+    "details": "Dental emergencies don't run on a schedule, and our staff understands that. When these problems arise, we will make the time for you by staying late, shifting appointments and focusing on getting you out of pain!"
+  }
+]

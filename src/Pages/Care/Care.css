@@ -1,0 +1,37 @@
+.care h1 {
+  font-size: 2.188rem;
+  color: #000 !important;
+  text-align: center;
+  line-height: 2.813rem;
+  font-family: "Franklin Gothic Medium", "Arial Narrow";
+  margin: 6% 0;
+  padding: 0 8%;
+}
+.care h4 {
+  color: #246880;
+}
+
+.care p {
+  font-size: 1.188rem;
+  color: #666;
+  font-weight: 300;
+}
+
+.care-main-container {
+  background-color: #f2f2f2;
+}
+.care-main-container h1 {
+  color: #246880;
+  font-size: 2.5rem;
+  font-weight: 800;
+}
+.care-main-container h4 {
+  color: #246880;
+  font-weight: 800;
+}
+
+.care-main-container p {
+  font-size: 1.188rem;
+  color: #666;
+  font-weight: 300;
+}

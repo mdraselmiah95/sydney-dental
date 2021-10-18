@@ -31,6 +31,9 @@ const Header = () => {
             <Link className="navItem me-2" to="/experts">
               Experts
             </Link>
+            <Link className="navItem me-2" to="/care">
+              Care
+            </Link>
             <Navbar.Text className="text-black">Signed in as:</Navbar.Text>
           </Navbar.Collapse>
         </Container>

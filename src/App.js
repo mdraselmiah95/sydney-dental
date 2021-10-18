@@ -1,6 +1,7 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import "./App.css";
+import Care from "./Pages/Care/Care";
 import Experts from "./Pages/Experts/Experts";
 import Home from "./Pages/Home/Home/Home";
 import NotFound from "./Pages/NotFound/NotFound";
@@ -21,6 +22,9 @@ function App() {
           </Route>
           <Route path="/experts">
             <Experts />
+          </Route>
+          <Route path="/care">
+            <Care />
           </Route>
           <Route path="/serviceDetails/:id">
             <ServiceDetails />

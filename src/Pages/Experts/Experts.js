@@ -33,7 +33,7 @@ const Experts = () => {
       </div>
       <div className="container">
         {experts.map((expert) => (
-          <div className="row mb-5" key={expert.id}>
+          <div className="row mb-5 text-center text-md-start" key={expert.id}>
             <div className="col-md-4 mb-2">
               <img src={expert.img} alt="" className="img-fluid" />
             </div>
