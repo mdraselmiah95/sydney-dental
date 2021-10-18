@@ -14,7 +14,7 @@ const ServiceDetails = () => {
   const matchingItem = data.filter((td) => td.id === Number(id));
 
   return (
-    <div className="container-fluid serviceDetails">
+    <div className="container-fluid serviceDetails mb-3">
       <h2 className="text-center my-4">{matchingItem[0]?.titleTwo}</h2>
       <div className="row border px-2 py-4 mx-2 rounded justify-content-center">
         <div className="col-md-4">
