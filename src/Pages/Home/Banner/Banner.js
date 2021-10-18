@@ -9,7 +9,7 @@ const Banner = () => {
         <h1 className="fw-bolder mainTitle">
           Sydney where experience meets excellence
         </h1>
-        <p className="my-4 text-dark fs-5 fw-bold">
+        <p className="my-4 text-dark fs-5 fw-bold my-3">
           We provides always our best services for our clients and always
         </p>
         <Nav.Link as={HashLink} to="/home#services">

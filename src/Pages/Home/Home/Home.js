@@ -3,6 +3,7 @@ import Banner from "../Banner/Banner";
 import Cosmetic from "../Cosmetic/Cosmetic";
 import Motto from "../Motto/Motto";
 import Services from "../Services/Services";
+import Slider from "../Slider/Slider";
 
 const Home = () => {
   return (
@@ -11,6 +12,7 @@ const Home = () => {
       <Motto />
       <Cosmetic />
       <Services />
+      <Slider />
     </div>
   );
 };
