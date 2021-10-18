@@ -7,13 +7,13 @@ import img5 from "../../../images/resources/GetImage.png";
 import "./Resources.css";
 const Resources = () => {
   return (
-    <div className="resources my-5 py-3" id="resource">
+    <div className="resources py-3" id="resource">
       <h2 className="text-center resources-h2 mt-3">
         Shop & educational resources
       </h2>
-      <div className="container">
+      <div className="container container-img">
         <div className="row mt-5 mb-4">
-          <div className="p-3 text-center col-lg-2 col-md-4">
+          <div className="p-3 text-center col-lg-2 col-md-4 ">
             <img
               src={img1}
               alt="resources One"

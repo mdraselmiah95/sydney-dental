@@ -1,8 +1,8 @@
 import React from "react";
 import Banner from "../Banner/Banner";
 import Cosmetic from "../Cosmetic/Cosmetic";
+import ImgBeauty from "../ImgBeauty/ImgBeauty";
 import Motto from "../Motto/Motto";
-import Parallax from "../Parallax/Parallax";
 import Resources from "../Resources/Resources";
 import Services from "../Services/Services";
 import Slider from "../Slider/Slider";
@@ -16,7 +16,7 @@ const Home = () => {
       <Services />
       <Slider />
       <Resources />
-      <Parallax />
+      <ImgBeauty />
     </div>
   );
 };

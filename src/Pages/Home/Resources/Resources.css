@@ -21,3 +21,10 @@
   transform: translate(-50%, 0);
   border-bottom: 2px solid;
 }
+.container-img img {
+  transition: all 1s ease-out;
+}
+.container-img img:hover {
+  transform: scale(1.2);
+  /* border: 6px solid #a0aed5; */
+}
