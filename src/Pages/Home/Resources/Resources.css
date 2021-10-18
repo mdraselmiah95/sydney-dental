@@ -23,8 +23,9 @@
 }
 .container-img img {
   transition: all 1s ease-out;
+  cursor: pointer;
 }
 .container-img img:hover {
-  transform: scale(1.2);
+  transform: scale(1.1);
   /* border: 6px solid #a0aed5; */
 }

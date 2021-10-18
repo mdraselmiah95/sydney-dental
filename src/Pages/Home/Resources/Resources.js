@@ -11,7 +11,7 @@ const Resources = () => {
       <h2 className="text-center resources-h2 mt-3">
         Shop & educational resources
       </h2>
-      <div className="container container-img">
+      <div className="container-img p-3">
         <div className="row mt-5 mb-4">
           <div className="p-3 text-center col-lg-2 col-md-4 ">
             <img
