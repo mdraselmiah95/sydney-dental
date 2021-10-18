@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import "./App.css";
 import Home from "./Pages/Home/Home/Home";
 import NotFound from "./Pages/NotFound/NotFound";
+import ServiceDetails from "./Pages/ServiceDetails/ServiceDetails";
 import Services from "./Pages/Services/Services";
 import Header from "./Pages/Shared/Header/Header";
 function App() {
@@ -19,6 +20,9 @@ function App() {
           </Route>
           <Route path="/services">
             <Services />
+          </Route>
+          <Route path="/serviceDetails/:id">
+            <ServiceDetails />
           </Route>
           <Route path="*">
             <NotFound />
