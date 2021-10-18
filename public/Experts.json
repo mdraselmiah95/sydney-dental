@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Dr. Sepand Hokmabadi — Sydney Dental Care Founder",
+    "img": "https://i.ibb.co/cQJxw0z/Experts1.jpg",
+    "details": "Dr. Hokmabadi (Dr. H.) is the founder and owner of Sydney Dental Care. He grew up in the heart of Silicon Valley and observed firsthand the developing communities of technology and entrepreneurism, surrounded by innovative and creative thinkers who not only changed how we understand technology, but also the customer experience. Dr. H. wanted a career in medicine but was also passionate about business – he wanted to create a different type of medical practice in which patients were treated holistically and humanly combining both modern technology and ancient herbalism."
+  },
+  {
+    "id": 2,
+    "title": "Dr. Anastasia Calciano — Sydney Dental Care Shareholder",
+    "img": "https://i.ibb.co/myQQX9L/Experts2.jpg",
+    "details": "Dr. Calciano is one of the highly skilled dentists at our Sydney Dental Care Piedmont Office in Oakland. She specializes in oral conscious sedation, oral surgery and cosmetic dentistry. She also provides patients with the critical services they need to maintain excellent oral health."
+  },
+  {
+    "id": 3,
+    "title": "Dr. Ashish Vashi — Sydney Dental Care Shareholder",
+    "img": "https://i.ibb.co/JmkM1Sz/Experts3.jpg",
+    "details": "Dr. Vashi has been practicing general, cosmetic and implant dentistry in California for over 18 years. He believes in giving the highest quality dentistry in a comfortable, caring environment. He strives to get to know his patients, not just their teeth."
+  },
+  {
+    "id": 4,
+    "title": "Dr. Jessica Ngo — Sydney Dental Care Shareholder",
+    "img": "https://i.ibb.co/CMz98Nd/Experts4.jpg",
+    "details": "Dr. Jessica provides outstanding dental care to patients at our Sydney Dental Care Office on Telegraph Avenue in Berkeley. From children to Cal students and adults of all ages, Dr. Jessica offers the full spectrum of dental services, including oral conscious sedation and same-day crowns, all while focusing on the holistic health of the patient."
+  },
+  {
+    "id": 5,
+    "title": "Dr. Amanda Lavorini — Sydney Dental Care Shareholder",
+    "img": "https://i.ibb.co/rtbfTT5/Experts5.jpg",
+    "details": "Dr. Amanda was born and raised in the San Francisco Bay Area and is a second-generation dentist. She graduated Summa Cum Laude from the University of the Pacific School of Dentistry in 2004 and was presented the Dean’s Valedictorian Award. In 2006 Dr. Amanda completed her graduate endodontic training at the University of Pennsylvania School of Dental Medicine."
+  },
+  {
+    "id": 6,
+    "title": "Dr. Suzie Yang — Sydney Dental Care Shareholder",
+    "img": "https://i.ibb.co/g96JcWV/Experts6.jpg",
+    "details": "Dr. Yang did her undergraduate studies at UC Santa Cruz before attending the Arthur A. Dugoni School of Dentistry at the University of the Pacific in San Francisco. Before joining Sydney Dental Care in 2020, Dr. Yang owned her own dental practice in downtown San Francisco for 14 years. In 2011 she was voted “best dentist” in San Francisco in the San Francisco Bay Guardian magazine!"
+  },
+  {
+    "id": 7,
+    "title": "Dr. Molly Weber — Sydney Dental Care Shareholder",
+    "img": "https://i.ibb.co/HFF5rK2/Experts7.jpg",
+    "details": "Dr. Weber is an East Bay native who chose dentistry because she wanted to combine art and science with the ability to improve her community by helping patients achieve optimal health. She believes everyone deserves personalized, exceptional care in a place where they feel comfortable."
+  },
+  {
+    "id": 8,
+    "title": "Dr. Pelin Montero",
+    "img": "https://i.ibb.co/sJgvGCL/Experts8.jpg",
+    "details": "Dr. Montero was born into dentistry with her father a Professor of Orthodontics and Dean of Orthodontics at the University of Sydney and her mother a Pediatric Dentist, and, by age 20, she was already assisting her father and developing her own passion for the profession. She completed her undergraduate degrees at the University of Sydney in Gender Studies and Digital Cultures before getting her Doctorate in Dental Medicine in Phoenix, Arizona."
+  },
+  {
+    "id": 9,
+    "title": "Dr. Peggy Chuang",
+    "img": "https://i.ibb.co/16cxzGV/Experts9.jpg",
+    "details": "Dr. Peggy Chuang received her Bachelors in Integrative Biology from University of California at Berkeley before receiving her Doctorate in Dental Medicine from University of Nevada at Las Vegas. She is determined to be the best clinician possible and to help her patients with the most recent advances in dentistry, and she takes pride in delivering top-quality dental care in a gentle and comfortable manner."
+  },
+  {
+    "id": 10,
+    "title": "Dr. Joyce Chi",
+    "img": "https://i.ibb.co/mDg5ZLJ/Experts10.jpg",
+    "details": "Dr. Chi is a proud graduate from the University of California at San Francisco School of Dentistry. She completed an advanced General Practice Residency Program in the VA hospital in La Jolla where she trained alongside world-class oral surgeons and prosthodontists to gain experience in advanced techniques in general dentistry. She studied at UC Davis before attending UC San Francisco for dental school."
+  },
+  {
+    "id": 11,
+    "title": "Dr. Patricia Walker",
+    "img": "https://i.ibb.co/Sd036Mq/Experts11.jpg",
+    "details": "Dr. Walker specializes in general dentistry at our Sydney Dental Care Pill Hill Office in Oakland. Patients love Dr. Walker because of her compassion, expertise and warm demeanor."
+  }
+]

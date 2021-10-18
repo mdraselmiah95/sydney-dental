@@ -28,8 +28,8 @@ const Header = () => {
             <Nav.Link className="navItem" as={HashLink} to="/home#resource">
               Resource
             </Nav.Link>
-            <Link className="navItem me-2" to="/services">
-              Services
+            <Link className="navItem me-2" to="/experts">
+              Experts
             </Link>
             <Navbar.Text className="text-black">Signed in as:</Navbar.Text>
           </Navbar.Collapse>
@@ -40,7 +40,6 @@ const Header = () => {
 };
 
 /* 
-
    {user.email ? (
               <Button variant="light" className="me-2" onClick={logOut}>
                 Logout

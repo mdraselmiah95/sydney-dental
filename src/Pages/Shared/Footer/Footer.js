@@ -59,6 +59,9 @@ const Footer = () => {
                   <NavLink to="/services" className="footer-menu  text-light">
                     COURSES
                   </NavLink>
+                  <NavLink to="/experts" className="footer-menu  text-light">
+                    EXPERTS
+                  </NavLink>
                 </ul>
               </div>
             </div>
