@@ -1,0 +1,14 @@
+.main-card {
+  background-color: #201e33 !important;
+}
+.service-h3 {
+  color: rgb(255, 255, 255);
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.service-p {
+  text-transform: uppercase;
+  color: rgb(154, 192, 220);
+  font-weight: 100;
+}
