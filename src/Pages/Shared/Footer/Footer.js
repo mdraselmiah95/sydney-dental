@@ -62,6 +62,9 @@ const Footer = () => {
                   <NavLink to="/experts" className="footer-menu  text-light">
                     EXPERTS
                   </NavLink>
+                  <NavLink to="/login" className="footer-menu  text-light">
+                    LogIn
+                  </NavLink>
                 </ul>
               </div>
             </div>

@@ -37,7 +37,7 @@ const Header = () => {
               Care
             </Link>
             {user.email ? (
-              <Button onClick={logOut} variant="light">
+              <Button onClick={logOut} variant="light" className="mx-2">
                 Logout
               </Button>
             ) : (
