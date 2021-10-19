@@ -1,5 +1,6 @@
 import { faGoogle } from "@fortawesome/free-brands-svg-icons";
 import {
+  faBackward,
   faUndo,
   faUserCheck,
   faUserLock,
@@ -7,6 +8,7 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React from "react";
+import { NavLink } from "react-router-dom";
 import Typewriter from "typewriter-effect";
 import useAuth from "../../../hooks/useAuth";
 import img from "../../../images/login/Login.png";
@@ -124,6 +126,12 @@ const LogIn = () => {
             >
               <FontAwesomeIcon icon={faUndo} className="me-1" /> Reset Password
             </button>
+            <NavLink to="/home" className="d-inline ms-2">
+              <button className="btn btn-outline-primary">
+                <FontAwesomeIcon icon={faBackward} className="me-2" />
+                GO Back Home
+              </button>
+            </NavLink>
           </form>
           <br />
           <hr />
