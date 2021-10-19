@@ -76,7 +76,7 @@ const LogIn = () => {
                   type="email"
                   className="form-control"
                   id="inputEmail3"
-                  placeholder="Email"
+                  placeholder="Your Email"
                   required
                 />
               </div>
