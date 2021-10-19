@@ -16,4 +16,11 @@ You will also see any lint errors in the console.
 
 ### `yarn test`
 
-\*number 01
+Markup : _ Bullet list
+_ Nested bullet
+_ Sub-nested bullet etc
+_ Bullet list item 2
+
+-OR-
+
+Markup : - Bullet list - Nested bullet - Sub-nested bullet etc - Bullet list item 2
