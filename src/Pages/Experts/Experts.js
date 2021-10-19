@@ -4,6 +4,7 @@ import Typewriter from "typewriter-effect";
 import img from "../../images/expert/dentists2.png";
 import img2 from "../../images/expert/toothbrush.jpg";
 import "./Experts.css";
+
 const Experts = () => {
   const [experts, setExperts] = useState([]);
 
@@ -32,7 +33,16 @@ const Experts = () => {
         </div>
       </Parallax>
       <div className="container text-center experts py-5">
-        <h2>Meet a Few of the Oral Experts</h2>
+        <h2 className="mb-3">
+          <Typewriter
+            options={{
+              strings: ["Meet a Few of the Oral Experts"],
+              autoStart: true,
+              loop: true,
+              delay: 200,
+            }}
+          ></Typewriter>
+        </h2>
         <p className="">
           How do you differentiate yourself in ultra-competitive Bay Area
           dentistry? You start by assembling a world-class team of dentists and
@@ -45,10 +55,12 @@ const Experts = () => {
             <div className="col-md-4 mb-2">
               <img src={expert.img} alt="" className="img-fluid" />
             </div>
+
             <div className="col-md-8 expertsSecondPart">
               <h2>{expert.title}</h2>
               <p>{expert.details}</p>
             </div>
+
             <hr />
           </div>
         ))}

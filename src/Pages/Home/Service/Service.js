@@ -1,3 +1,5 @@
+import { faAngleDoubleRight } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React from "react";
 import { Link } from "react-router-dom";
 import "./Service.css";
@@ -13,7 +15,10 @@ const Service = (props) => {
             <p className="service-p">{work}</p>
           </div>
           <Link to={`/serviceDetails/${id}`}>
-            <button className="btn btn-outline-light">LEARN MORE</button>
+            <button className="btn btn-outline-light">
+              <FontAwesomeIcon icon={faAngleDoubleRight} className="me-2" />
+              LEARN MORE
+            </button>
           </Link>
         </div>
       </div>

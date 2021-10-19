@@ -16,9 +16,10 @@ a {
   text-decoration: none;
   cursor: pointer;
   font-weight: 700;
+  transition: 1s;
 }
-.footer-menu:hover {
-  color: rgb(0, 153, 255);
+.footer-menu-container a:hover {
+  color: rgb(0, 153, 255) !important;
 }
 .footer-input {
   margin-top: 15px;

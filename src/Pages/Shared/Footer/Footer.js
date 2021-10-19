@@ -69,29 +69,26 @@ const Footer = () => {
               </div>
             </div>
             <div className="col-md-5">
-              <div className="right-footer-container ms-5">
+              <div className="right-footer-container text-center">
                 <h3>BOOK ONLINE</h3>
                 <input
-                  className="footer-input"
+                  className="footer-input mb-2"
                   type="text"
                   placeholder="Enter Email"
                 />
 
-                <div className="phone d-flex align-items-center mt-4">
-                  <div className="footer-phone-icon">
-                    <FontAwesomeIcon icon={faPhoneVolume} />
-                  </div>
-                  <div>
-                    <h5>PHONE: (02) 9231 3822</h5>
-                  </div>
+                <div className="footer-phone-icon my-3">
+                  <h5>
+                    <FontAwesomeIcon icon={faPhoneVolume} className="me-2" />
+                    PHONE: (02) 9231 3822
+                  </h5>
                 </div>
-                <div className="map d-flex align-items-center">
-                  <div className="footer-phone-icon">
-                    <FontAwesomeIcon icon={faMapMarkedAlt} />
-                  </div>
-                  <div>
-                    <p>Level 4, 12 O’Connell St. Sydney, NSW 2000</p>
-                  </div>
+
+                <div className="footer-phone-icon">
+                  <p>
+                    <FontAwesomeIcon icon={faMapMarkedAlt} className="me-2" />
+                    Level 4, 12 O’Connell St. Sydney, NSW 2000
+                  </p>
                 </div>
               </div>
             </div>

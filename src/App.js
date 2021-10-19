@@ -1,3 +1,4 @@
+import "animate.css/animate.min.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import "./App.css";
@@ -11,7 +12,6 @@ import NotFound from "./Pages/NotFound/NotFound";
 import ServiceDetails from "./Pages/ServiceDetails/ServiceDetails";
 import Footer from "./Pages/Shared/Footer/Footer";
 import Header from "./Pages/Shared/Header/Header";
-
 function App() {
   return (
     <div>

@@ -1,3 +1,5 @@
+import { faCaretRight } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React from "react";
 import { Nav } from "react-bootstrap";
 import { HashLink } from "react-router-hash-link";
@@ -23,6 +25,7 @@ const Banner = () => {
         </p>
         <Nav.Link as={HashLink} to="/home#services">
           <button className="rounded-pill fs-5 py-2 px-5 btn btn-outline-warning">
+            <FontAwesomeIcon icon={faCaretRight} className="me-2" />
             SERVICES
           </button>
         </Nav.Link>

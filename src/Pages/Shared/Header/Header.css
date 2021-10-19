@@ -3,6 +3,10 @@ a {
   color: black !important;
   font-weight: 700;
   font-size: 18px;
+  transition: 1s;
+}
+a:hover {
+  color: #3b92af !important;
 }
 .mainNav {
   background-color: #eff1e3;

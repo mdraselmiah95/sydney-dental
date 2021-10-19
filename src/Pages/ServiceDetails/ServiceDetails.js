@@ -1,3 +1,5 @@
+import { faBackward } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router";
 import { NavLink } from "react-router-dom";
@@ -27,7 +29,10 @@ const ServiceDetails = () => {
         <div className="col-md-8 px-2 mt-2">
           <p>{matchingItem[0]?.details}</p>
           <NavLink to="/home">
-            <button className="btn btn-outline-info mb-4">GO Back Home</button>
+            <button className="btn btn-outline-info mb-4">
+              <FontAwesomeIcon icon={faBackward} className="me-2" />
+              GO Back Home
+            </button>
           </NavLink>
         </div>
       </div>

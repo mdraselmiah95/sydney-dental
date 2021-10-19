@@ -27,13 +27,17 @@ const Header = () => {
             <Nav.Link className="navItem" as={HashLink} to="/home#services">
               Services
             </Nav.Link>
-            <Nav.Link className="navItem" as={HashLink} to="/home#resource">
+            <Nav.Link
+              className="navItem me-1"
+              as={HashLink}
+              to="/home#resource"
+            >
               Resource
             </Nav.Link>
-            <Link className="navItem me-2" to="/experts">
+            <Link className="navItem me-3" to="/experts">
               Experts
             </Link>
-            <Link className="navItem me-2" to="/care">
+            <Link className="navItem me-3" to="/care">
               Care
             </Link>
             {user.email ? (
