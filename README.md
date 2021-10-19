@@ -16,4 +16,4 @@ You will also see any lint errors in the console.
 
 ### `yarn test`
 
--number 01
+\*number 01
