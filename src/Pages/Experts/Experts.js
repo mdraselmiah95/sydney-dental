@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Parallax } from "react-parallax";
+import Typewriter from "typewriter-effect";
 import img from "../../images/expert/dentists2.png";
 import img2 from "../../images/expert/toothbrush.jpg";
 import "./Experts.css";
@@ -19,7 +20,14 @@ const Experts = () => {
             className="text-uppercase text-white experts-p"
             style={{ margin: "14% 0" }}
           >
-            Our Superstar Doctors
+            <Typewriter
+              options={{
+                strings: ["Our Superstar Doctors"],
+                autoStart: true,
+                loop: true,
+                delay: 200,
+              }}
+            ></Typewriter>
           </p>
         </div>
       </Parallax>
